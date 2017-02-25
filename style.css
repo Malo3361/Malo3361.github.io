@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;color: white;font-family:Courier;
+}
+
+h2 {
+    text-align: center;color: white;font-family:Courier}
+    img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+body {
+    background-color: gray;
+}
